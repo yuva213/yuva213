@@ -1,3 +1,26 @@
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+
+<br>
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" width="150" />
+</p>
+
+<p align="center">
+  <b>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</b>
+</p>
+<p align="center">
+  <b>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</b>
+</p>
+<p align="center">
+  <b>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</b>
+</p>
+<p align="center">
+  <b>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</b>
+</p>
+
+---
+
 # 👋 Hi, I'm Yuvaraj S
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
@@ -15,11 +38,17 @@
 
 ---
 
-## 🚀 About Me
+## 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="200" align="right" alt="coding animation" />
+</p>
 
 I'm a passionate **Engineering Student** and **Full‑Stack Web Developer** who loves building real‑world products, especially for local businesses, education, and social impact. I'm a **React‑focused developer** currently expanding my backend and AI skills.
 
 I learn by building, breaking, and rebuilding — and I enjoy teaching others what I learn.
+
+<br><br><br><br>
 
 ---
 
@@ -151,14 +180,6 @@ I'm an **active hackathon participant** who focuses on **working demos first**, 
 
 ---
 
-## 🎁 GitHub Wrapped
-
-Check out your GitHub Wrapped at `githubwrapped.io`!
-
-![github-wrapped](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
-
----
-
 ## 🎯 What I'm Currently Learning
 
 * 🗄️ **Backend architecture** – Building scalable applications
@@ -200,6 +221,14 @@ Check out your GitHub Wrapped at `githubwrapped.io`!
 ## 💬 Personal Motto
 
 > *"Build simple. Learn deeply. Share freely."*
+
+---
+
+## 💖 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! 💖
+
+<p align="center">
+  <img src="https://i.imgur.com/tzYKRfd.gif" alt="thank you animation" />
+</p>
 
 ---
 
