@@ -21,7 +21,7 @@
 
 ---
 
-# 👋 Hi, I'm Yuvaraj S
+#<h1 align="center"> 👋 Hi, I'm Yuvaraj S </h1>
 
 ---
 
