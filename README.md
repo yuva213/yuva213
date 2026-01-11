@@ -26,10 +26,6 @@ I learn by building, breaking, and rebuilding — and I enjoy teaching others wh
 ## 🏆 Achievements
 
 * 🥇 **Finalist** – Smart India Hackathon 2024
-* 🏅 **Second Prize** – Ideathon at Sri Eshwar College of Engineering
-* 🏅 **Third Prize** – Code Debugging at Sri Eshwar College of Engineering
-* 🎯 **Top 10 Finalist** – Ideathon at SREC
-* 🌟 **Participation** – Buildspace 3.0
 
 ---
 
@@ -150,19 +146,7 @@ I'm an **active hackathon participant** who focuses on **working demos first**, 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuva213&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuva213&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva213&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuva213&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuva213&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva213&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -223,8 +207,4 @@ Made with ❤️ by [Yuvaraj S](https://github.com/yuva213)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuva213&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@yuva213?theme=asoul" />
 </p>
