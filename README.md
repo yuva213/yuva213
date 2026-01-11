@@ -210,5 +210,5 @@ Made with ❤️ by [Yuvaraj S](https://github.com/yuva213)
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@yuva213?theme=asoul" />
+  <img src="http://hits.dwyl.com/yuva213/yuva213.svg" alt="Hit Counter" />
 </p>
