@@ -204,11 +204,10 @@ Made with ❤️ by [Yuvaraj S](https://github.com/yuva213)
 </div>
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuva213&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="http://hits.dwyl.com/yuva213/yuva213.svg" alt="Hit Counter" />
+  <img src="https://count.getloli.com/get/@yuva213?theme=asoul" />
 </p>
