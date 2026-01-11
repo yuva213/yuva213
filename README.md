@@ -40,11 +40,6 @@ I learn by building, breaking, and rebuilding — and I enjoy teaching others wh
 
 ---
 
-## 🏆 Achievements
-
-* 🥇 **Finalist** – Smart India Hackathon 2024
-
----
 
 ## 🧰 Tech Stack
 
@@ -157,14 +152,6 @@ I'm an **active hackathon participant** who focuses on **working demos first**, 
 * 🧾 **Credit Tracker** – Real‑world business solution
 * 📊 **Attendance System** – Educational institution tool
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuva213&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva213&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
