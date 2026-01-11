@@ -23,19 +23,6 @@
 
 # 👋 Hi, I'm Yuvaraj S
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/github.svg" alt="github" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-
 ---
 
 ## 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊
